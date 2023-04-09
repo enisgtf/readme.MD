@@ -1,5 +1,3 @@
-# readme.MD
-
 # Welcome to my profile!
 My name is Enis. I am fullstack (MEVN) developer. 
 
